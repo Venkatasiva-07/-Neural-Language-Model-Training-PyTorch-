@@ -26,7 +26,7 @@ This assignment demonstrates:
 ## 📄 Dataset  
 - The dataset used is:  
   **Pride and Prejudice — Jane Austen**  
-- Tokenization: **Whitespace tokenization**  
+- Tokenization: **Whitespace tokenization** 25000 
 - Preprocessing:  
   - Lowercasing  
   - Removing newline characters  
